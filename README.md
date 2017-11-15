@@ -3,7 +3,7 @@ projeto_ope_GP - Arquivos Laravel Database
 
 Copiar arquivos de cada pasta para a mesma pasta no laravel
 
-Após excluir o banco de dados Laravel e cria-lo novamente
+excluir o banco de dados Laravel e cria-lo novamente
 
 executar o comando php artisan migrate
 
